@@ -44,11 +44,7 @@ Treatment effectiveness analysis:
 
 ---
 
-What’s included
-- final healthproject analysis.pbix — main Power BI report (root)  
-- image folder/ — screenshots used in this README
 
-Download the report (raw): https://github.com/Umeshteja23/health-analytics-based-on-power-bi/blob/main/final%20healthproject%20analysis.pbix
 
 Quick start
 
@@ -89,13 +85,10 @@ Contributions welcome:
 
 If you want issue/pr templates or a CONTRIBUTING.md, I can add them.
 
-License & contact
-- License: (please choose — recommended: MIT). Tell me which license and I will add a LICENSE file.  
+  contact
+
 - Maintainer: Umeshteja23  
 - Repo: https://github.com/Umeshteja23/health-analytics-based-on-power-bi
 
 ---
 
-Notes
-- I tailored this README to the current repository contents: one PBIX and four images in `image folder/`.  
-- If you want me to commit this file directly, I can update the README in the repo (I will fetch the current file info and create the commit). Please confirm and tell me your preferred license and an optional contact email to include.
