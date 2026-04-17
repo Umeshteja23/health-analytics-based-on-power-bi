@@ -9,7 +9,7 @@ Monitor hospital performance
 Identify cost patterns
 Understand patient demographics
 📊 Dashboard Preview
-🔹 Health Overview Dashboard
+🔹 Health Overview Dashboard ![Dashboard]()
 Key metrics:
 
 Average Recovery Rating
@@ -21,7 +21,8 @@ Insights:
 
 Helps identify overall hospital efficiency
 Quick snapshot for decision-makers
-🔹 Patient Admission Trends
+
+🔹 Patient Admission Trends ![Dashboard]()
 Insights:
 
 Monthly admission patterns
@@ -31,7 +32,8 @@ Seasonal healthcare demand trends
 Business Value:
 
 Helps in resource planning and staffing optimization
-🔹 Time-Based Analysis
+
+🔹 Time-Based Analysis ![Dashboard]()
 Insights:
 
 Admissions by month
@@ -41,7 +43,8 @@ Treatment-specific performance trends
 Business Value:
 
 Enables trend forecasting and budgeting decisions
-🔹 Treatment Effectiveness
+
+🔹 Treatment Effectiveness ![Dashboard]()
 Metrics:
 
 Average Length of Stay
@@ -51,11 +54,14 @@ Insights:
 
 Compare treatments like Medication, Surgery, Therapy
 Identify which treatment gives better outcomes with lower cost/time
+
 🛠️ Tools & Technologies
 Power BI
 DAX
 Power Query
 Excel / CSV
+
+
 ###Key Insights
 Seasonal variations in patient admissions
 Cost differences across treatments and hospitals
