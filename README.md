@@ -9,7 +9,7 @@ Monitor hospital performance
 Identify cost patterns
 Understand patient demographics
 📊 Dashboard Preview
-🔹 Health Overview Dashboard ![Dashboard]()
+🔹 Health Overview Dashboard ![Dashboard](image folder/Main Healthcare Dashboard.png)
 Key metrics:
 
 Average Recovery Rating
