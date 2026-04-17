@@ -46,7 +46,7 @@ Each visual below represents a key analysis component of the project.
 
 Shows monthly fluctuations in patient admissions using line & bar charts.
 
-![Patient Admission Trends](1.jpg)
+
 
 ---
 
@@ -54,7 +54,7 @@ Shows monthly fluctuations in patient admissions using line & bar charts.
 
 Evaluates how different treatments perform using LOS (Length of Stay) & Recovery Rating.
 
-![Treatment Effectiveness](2.jpg)
+!
 
 ---
 
@@ -62,7 +62,7 @@ Evaluates how different treatments perform using LOS (Length of Stay) & Recovery
 
 A combined page for cost trends, patient volume, LOS, and hospital-wise metrics.
 
-![Time Based Analysis](3.jpg)
+!
 
 ---
 
@@ -70,7 +70,7 @@ A combined page for cost trends, patient volume, LOS, and hospital-wise metrics.
 
 The hero dashboard page capturing KPIs, demographics, cost, diagnosis distribution, and recovery analytics.
 
-![Health Dashboard](4.jpg)
+
 
 ---
 
