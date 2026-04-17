@@ -1,71 +1,30 @@
-🏥 Healthcare Data Analysis Dashboard
-#Project Overview
+# Health Analytics Based on Power BI
 
-This project analyzes healthcare data to generate actionable insights on patient trends, treatment effectiveness, hospital performance, and cost optimization using an interactive Power BI dashboard.
-🎯 Objectives
-Analyze patient admissions over time
-Evaluate treatment effectiveness
-Monitor hospital performance
-Identify cost patterns
-Understand patient demographics
-📊 Dashboard Preview
-🔹 Health Overview Dashboard 
+## Overview
 
-![Health Dashboard](image/Main%20Healthcare%20Dashboard.png)
-Key metrics:
+This repository contains tools and resources for conducting health analytics using Power BI. By leveraging data visualization and analytics, users can derive insights from health data to make informed decisions.
 
-Average Recovery Rating
-Average Cost per Patient
-Average Length of Stay (LOS)
-Patients per Room
+## Features
+- **Interactive Dashboards**: Create visually appealing dashboards to present health metrics.
+- **Data Integration**: Seamlessly integrate various health data sources.
+- **Visual Reports**: Generate reports that help stakeholders understand health trends.
 
-Insights:
+## Installation
+To use this project, clone the repository and install the required dependencies:
 
-Helps identify overall hospital efficiency
-Quick snapshot for decision-makers
+```bash
+git clone https://github.com/Umeshteja23/health-analytics-based-on-power-bi.git
+cd health-analytics-based-on-power-bi
+```
 
-🔹 Patient Admission Trends ![Dashboard]()
-Insights:
+## Usage
+Follow the instructions in the [Wiki](https://github.com/Umeshteja23/health-analytics-based-on-power-bi/wiki) for detailed usage examples.
 
-Monthly admission patterns
-Peak vs low admission periods
-Seasonal healthcare demand trends
+## Contributing
+We welcome contributions! Please see the [Contribution Guidelines](https://github.com/Umeshteja23/health-analytics-based-on-power-bi/blob/main/CONTRIBUTING.md) for more information.
 
-Business Value:
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Umeshteja23/health-analytics-based-on-power-bi/blob/main/LICENSE) file for details.
 
-Helps in resource planning and staffing optimization
-
-🔹 Time-Based Analysis ![Dashboard]()
-Insights:
-
-Admissions by month
-Cost variations over time
-Treatment-specific performance trends
-
-Business Value:
-
-Enables trend forecasting and budgeting decisions
-
-🔹 Treatment Effectiveness ![Dashboard]()
-Metrics:
-
-Average Length of Stay
-Recovery Rating by Treatment Type
-
-Insights:
-
-Compare treatments like Medication, Surgery, Therapy
-Identify which treatment gives better outcomes with lower cost/time
-
-🛠️ Tools & Technologies
-Power BI
-DAX
-Power Query
-Excel / CSV
-
-
-###Key Insights
-Seasonal variations in patient admissions
-Cost differences across treatments and hospitals
-Efficiency differences between hospitals
-Treatment impact on recovery and LOS
+## Contact
+For any inquiries, please reach out to [Umeshteja23](https://github.com/Umeshteja23).
